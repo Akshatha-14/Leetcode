@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshatha-14/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Akshatha-14/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Akshatha-14/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshatha-14/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Akshatha-14/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Akshatha-14/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshatha-14/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Akshatha-14/Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
