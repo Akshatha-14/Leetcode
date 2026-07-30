@@ -6,10 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         seen={}
-        for i in range (len(nums)):
+        for i in range(len(nums)):
             ans=target-nums[i]
-
             if ans in seen:
                 return [seen[ans],i]
-            else:
-                seen[nums[i]]=i
+            seen[nums[i]]=i
