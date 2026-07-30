@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshatha-14/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Akshatha-14/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
